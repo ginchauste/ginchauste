@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ginchauste
-- 👀 I’m interested in microsimulation models.
-- 🌱 I’m currently learning how to use GitHub 
-- 💞️ I’m looking to collaborate on microsimulation modeling
-- 📫 How to reach me ginchauste@worldbank.org
+Gabriela Inchauste
+Lead Economist, The World Bank
 
 <!---
 ginchauste/ginchauste is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
